@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1052.3622 744.0945" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g transform="translate(0 -308.2677)">
+<path fill="none" stroke="#000" id="path2997" d="m131.4286,344.0945c421.8495,480.7931 479.1002-424.4557 808.5714,5.7143" transform="translate(0 308.2677)"/>
+<text font-family="Sans" text-align="start" word-spacing="0" line-height="125%" xml:space="preserve" letter-spacing="0" font-size="110px" writing-mode="lr">
+<textPath xlink:href="#path2997"><tspan>SVG text on a path!</tspan>
+</textPath>
+</text>
+</g>
+</svg>
